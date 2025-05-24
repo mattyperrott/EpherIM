@@ -1,0 +1,1 @@
+{"name":"epher-backend","version":"1.0.0","private":true,"dependencies":{"hyperswarm":"^3.21.0","libsodium-wrappers":"^0.7.10","noise-peer":"^1.0.0"}}
